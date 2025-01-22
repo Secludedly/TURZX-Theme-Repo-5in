@@ -1,0 +1,10 @@
+If there is a problem with the use, you can update the rom
+
+romV1.8
+
+Upgrade method:
+
+Rename the rom1.8 in the directory to update.app
+Connect the turzx screen, click the setting button
+Click the refresh storage information button to ensure that the turzx screen is connected normally
+In the case of ensuring that the connection is normal, click the upgrade rom button, wait for the prompt that the transfer is successful, and then click to restart the turzx screen to complete the upgrade.
