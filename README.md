@@ -19,4 +19,4 @@ I do not own the program, nor have I made most themes.*
 **Program Site:** https://www.turzx.com
 
 # SUBMIT A THEME 
-If you'd like to submit a theme for me to uplod to this repository, email me at simplelogin.macaw660@slmail.me with the subject "Turzx."
+If you'd like to submit a theme for me to upload to this repository, email me at simplelogin.macaw660@slmail.me with the subject "Turzx."
